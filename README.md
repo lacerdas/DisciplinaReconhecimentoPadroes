@@ -1,0 +1,1 @@
+# Disciplina Reconhecimento Padroes
