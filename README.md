@@ -1,1 +1,1 @@
-# Disciplina Reconhecimento Padroes
+# Disciplina Reconhecimento Padrões
